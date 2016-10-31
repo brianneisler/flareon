@@ -1,2 +1,2 @@
-# flareon
+# magmar
 Firebase application framework
